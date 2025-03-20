@@ -1,6 +1,6 @@
 # server.py
 from flask import Flask
-from package_name import create_dash_app
+from housing_affordability import create_dash_app
 
 server = Flask(__name__)
 
