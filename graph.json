@@ -1,0 +1,15 @@
+{
+    "n0": {
+        "name": "Output",
+        "value": "SUM(n1, n2)"
+
+    },
+    "n1": {
+        "name": "Input 1",
+        "value": 1
+    },
+    "n2": {
+        "name": "Input 2",
+        "value": 2
+    }
+}
